@@ -14,7 +14,7 @@ Olá! Sou Eduardo, bacharel em Tecnologia da Informação com ênfase em interne
 - [**Realtime USD Monitor**](https://github.com/Dulagwagon/realtime-usd-monitor) – Script Python que consulta a cotação do dólar em tempo real e registra dados históricos em CSV.
 - [**Portfolio Landing Page**](https://github.com/Dulagwagon/portfolio-eduardo-pereira) [EM DESENVOLVIMENTO] – Landing page em React para apresentação de portfólio, com design responsivo.
 - [**Criminal Hunt**](https://github.com/Dulagwagon/criminal-hunt) [EM DESENVOLVIMENTO] – Mini-jogo em Python com Pygame, demonstrando lógica de programação e desenvolvimento de games 2D.
-- [**Outros Projetos**](https://github.com/Dulagwagon/) – Pequena descrição de futuros projetos, APIs ou aplicações que estiver desenvolvendo.
+- [**Outros Projetos**](https://github.com/Dulagwagon/) – Pequena descrição de futuros projetos, APIs ou aplicações que eu estiver desenvolvendo.
 
 > 📌 Mais projetos podeão ser encontrados diretamente nos repositórios do meu GitHub, futuramente.
 
@@ -36,7 +36,7 @@ Olá! Sou Eduardo, bacharel em Tecnologia da Informação com ênfase em interne
 
 ## 📫 Contato
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/edupereira84)  
+- **LinkedIn:** [linkedin.com/in/edupereira84](https://linkedin.com/in/edupereira84)  
 - **GitHub:** [github.com/Dulagwagon](https://github.com/Dulagwagon)  
 - **Email:** eduardo.pereira@sme.prefeitura.sp.gov.br
 
